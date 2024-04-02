@@ -1,0 +1,68 @@
+body{
+    background: #001e4d !important;
+}
+
+.ssss{
+    height: 100vh;
+}
+.app h1{
+    
+    font-size: 25px !important;
+    color: #001e4d !important;
+    font-weight: 600 !important;
+    border-bottom: 1px solid #333;
+    padding-bottom: 30px !important;
+}
+.quiz {
+    padding: 20px 0 !important;
+}
+.quiz h2{
+    font-size: 18px !important;
+    color: #001e4d !important;
+    font-weight: 600 !important;
+}
+.btn{
+    background: #fff !important;
+    color: #222 !important;
+    font-weight: 500 !important;
+    width: 100% !important;
+    border: 1px solid #222 !important;
+    padding: 10px !important;
+    margin: 10px 0 !important;
+    text-align: left !important;
+    border-radius: 4px !important;
+    cursor: pointer !important;
+    /* transition: all 0.5s  ease !important; */
+}
+.btn:hover{
+    background: #222 !important;
+    color: #fff !important;
+}
+/* .btn:active{
+    background: none;
+} */
+#next-btn{
+    background: #001e4d !important;
+    color: #fff !important;
+    font-weight: 500 !important;
+    width: 150px !important;
+    border: 0 !important;
+    padding: 10px !important;
+    margin: 20px auto 0 !important;
+    border-radius: 4px !important;
+    cursor: pointer !important;
+    display: block;
+
+}
+.start-quiz{
+    background: #001e4d !important;
+    color: #fff !important;
+    font-weight: 500 !important;
+    width: 150px !important;
+    border: 0 !important;
+    padding: 10px !important;
+    margin: 20px auto 0 !important;
+    border-radius: 4px !important;
+    cursor: pointer !important;
+    display: block;
+}
